@@ -2,7 +2,7 @@ from tkinter import Tk, Label, Entry
 from random import randint
 
 texto= "tkinter"
-periodo = 3000
+periodo = 400
 
 def modifica_foco(campo_actual):
     estado = "EN CURSO"
